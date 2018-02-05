@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sorte",
+				"sortedEntriesToPrint\tstatement"
+			],
+			[
+				"ip",
+				"ipinfodict"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"loggerTXB",
+				"loggerTXBuffer\tchar [1024] loggerTXBuffer"
+			],
+			[
+				"mo",
+				"motorPowers\tMotorPowers motorPowers"
+			],
+			[
+				"thrott",
+				"throttleInPermille\tint throttleInPermille"
+			],
+			[
+				"loggerTXBufferTo",
+				"loggerTXBufferToProcessDeferred\tchar [1024] loggerTXBufferToProcessDeferred"
+			],
+			[
+				"loggerTXBuf",
+				"loggerTXBufferToProcessDeferred\tchar [1024] loggerTXBufferToProcessDeferred"
+			],
+			[
+				"loggerTX",
+				"loggerTXBufferToProcessDeferredWritePointer\tint loggerTXBufferToProcessDeferredWritePointer"
+			],
+			[
+				"loggerRx",
+				"loggerRXBufferToProcessDeferred"
+			],
+			[
+				"initia",
+				"InitializeESCs\tvoid InitializeESCs()"
+			],
+			[
+				"loggerRXB",
+				"loggerRXBufferToProcessDeferredWritePointer"
+			],
+			[
+				"logger",
+				"loggerRXBufferToProcessDeferredWritePointer\tint loggerRXBufferToProcessDeferredWritePointer"
+			],
+			[
+				"loggerR",
+				"loggerRXBufferToProcessDeferredWritePointer"
+			],
+			[
+				"inputBuff",
+				"inputBuffer\tchar [1024] inputBuffer"
+			],
+			[
+				"inputBuffer",
+				"inputBufferPointer\tint inputBufferPointer"
+			],
+			[
+				"HAL_UART_Tran",
+				"HAL_UART_Transmit_DMA\tHAL_StatusTypeDef HAL_UART_Transmit_DMA(UART_HandleTypeDef *huart, int *pData, int Size)"
+			],
+			[
+				"inputBu",
+				"inputBufferPointer\tint inputBufferPointer"
+			],
+			[
+				"rece",
+				"receivedString\tconst char * receivedString"
+			],
+			[
+				"HAL_FL",
+				"HAL_FLASH_Lock\tHAL_StatusTypeDef HAL_FLASH_Lock()"
+			],
+			[
+				"outYaw",
+				"outYawChangeRate"
+			],
+			[
+				"gps",
+				"gpsUsartIdleCallback\tvoid gpsUsartIdleCallback(char *data, uint32_t length)"
+			],
+			[
+				"logge",
+				"loggerStartListeningForIncomingData\tvoid loggerStartListeningForIncomingData()"
+			],
+			[
+				"huart",
+				"huart6"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"In",
+				"Instance\tint * Instance"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"easy",
+				"EasyClangComplete: Open completion triggers location"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mike/Desktop/SonarTest/SonarTest/SonarTest.sublime-project",
+		"/Users/mike/Desktop/SonarTest/SonarTest/.clang_complete",
+		"/Users/mike/Desktop/SonarTest/SonarTest/Src/main.c",
+		"/Users/mike/Desktop/SonarTest/SonarTest/Makefile",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/info.py",
+		"/Users/mike/Desktop/Outlook plugin project/trialprotection.c",
+		"/Users/mike/Desktop/test.cpp",
+		"/Users/mike/Desktop/test.py",
+		"/Users/mike/Library/Application Support/Sublime Text 3/Packages/User/ClangAutoComplete.sublime-settings",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/info_detailed.php",
+		"/Users/mike/Desktop/info_detailed.py",
+		"/Users/mike/.Trash/info 19-29-10-209.py",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/info.php",
+		"/Users/mike/Desktop/glxTrial.gif",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/tmpdata2/glxTrial.gif",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/about.txt",
+		"/Users/mike/test.py",
+		"/Users/mike/testpy/test.py",
+		"/Users/mike/Desktop/MyNeurology/Message",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/test.py",
+		"/private/var/folders/v2/3pyc4rzs1vg_xl5z1_55m5y80000gn/T/a63abfcb-0dd1-4a3a-9a8c-f0edf1020a88/var/www/yuriydev.com/goodies/quadcopter/index.php",
+		"/Users/mike/Desktop/Outlook plugin project/GalexyMacOutlook/dmgScript/createGalexyDmg",
+		"/Users/mike/Desktop/Outlook plugin project/GalexyMacOutlook/buildRelease.sh",
+		"/Users/mike/Desktop/chatwss",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Src/Receiver.c",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Inc/Logger.h",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Firmware.sublime-project",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/buildFirmware.sublime-build",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Makefile",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/FirmwareBuild.sublime-build",
+		"/Users/mike/Desktop/Quadcopter Summer 2017/Firmware/Firmware.sublime-workspace",
+		"/Users/mike/Documents/TestNucleo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h",
+		"/Users/mike/Documents/TestNucleo/Drivers/CMSIS/Include/core_cm4.h",
+		"/Users/mike/Documents/TestNucleo/Makefile",
+		"/Users/mike/Documents/TestNucleo/.clang_complete",
+		"/Users/mike/Documents/TestNucleo/Src/main.c",
+		"/Users/mike/Documents/TestNucleo/Src/stm32f4xx_it.c",
+		"/Users/mike/Documents/TestNucleo/Src/stm32f4xx_hal_msp.c",
+		"/Users/mike/Documents/TestNucleo/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SysTick_IRQn",
+			"\"",
+			"\",",
+			"\", ",
+			"easy_clang_complete_verbose"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Firmware",
+	"project": "SonarTest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
